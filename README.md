@@ -162,9 +162,9 @@ BlinkIT-Sales-Analysis/
 ├── notebooks/
 │   ├── data_cleaning.ipynb
 │
-├── README.md
-│
-└── requirements.txt
+├── requirements.txt
+
+README.md
 ```
 
 ---
